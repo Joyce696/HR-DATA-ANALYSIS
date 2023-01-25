@@ -1,4 +1,4 @@
-# HR-DATA-ANALYSIS: This Project was carried out with python Jupyter notebook and code is provided [here](). The dataframe used for this project is [here]().
+# HR-DATA-ANALYSIS: This Project was carried out with python Jupyter notebook and code is provided [here](). The Excel dataframe used for this project is [here](https://github.com/Joyce696/HR-DATA-ANALYSIS/blob/d443a732a2fcf0fc3f8a3e05a0246257c8bdc87e/HR_Data.xlsx).
 The Analysis was visualized in a Dashboard Using Tableau and the link is provided [here]()
 The human resource dataset seeks to answer the following questions:
 Find the total Number of Employees in the Organisation?
