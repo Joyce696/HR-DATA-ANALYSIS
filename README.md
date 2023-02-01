@@ -12,4 +12,4 @@ Group employees by age group ?
 Group employees by job role and calculate job satisfaction rating and employee count?
 Find the Attrition Rate by Education Field?
 Find the Attrition Rate by Gender for diffrent Age Groups?
-Find the Attrition rate by department?
+Find the Attrition rate by department? 
